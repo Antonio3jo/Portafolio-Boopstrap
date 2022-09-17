@@ -1,0 +1,116 @@
+body  {
+  
+  background-image: url(images/fondoMarmol.jpg);
+  
+  
+
+}
+
+
+.row {
+   color: black;
+   font: italic small-caps bold 18px/38px "Times New Roman", serif;
+   margin-top: 1rem;
+   
+   
+}
+.logoargentina {
+   width: 130%;
+}
+
+.col-4{
+   background-color:whitesmoke;
+   
+}
+.titulos{
+
+   font-size: 3rem;
+   font-style: italic;
+   color: black;
+   padding: 1rem;
+ }
+.cargos{
+   font-size: 1.3rem;
+   font-style: italic;
+   color: black;
+   text-align: center;
+}
+
+.fechas{
+   font-size: 1.2rem;
+   font-style: italic;
+   color: black;
+   text-align: center;
+   
+}
+
+
+.empresa{
+   font-size: 1.2rem;
+   font-style: italic;
+   color: black;
+   text-align: center;  
+}
+
+.logosTrabajo{
+   width: 35%;
+  
+}
+
+.ubicacion{
+   
+   font-style: italic;
+   color: black;
+   text-align: center;
+}
+
+.funciones{
+   color: black;
+   font-size: 1.2rem;
+   background-color:whitesmoke;
+}
+.funciones li{
+   color: black;
+   font-size: 17px;
+   
+}
+
+
+.carousel-inner{
+   width: 19rem;
+   margin-left: 36%;
+   
+}
+.acercaDeMi{
+   background-color:whitesmoke;
+   padding-top: 1rem;
+   font-size: 17px;
+ 
+
+}
+
+.redes {
+   width: 100%;
+}
+
+.foto {
+   width: 300%;
+}
+.certificados{
+   width: 100%;
+}
+
+
+footer{
+  
+   text-align: center;
+   padding: 20px;
+   
+   height: 40px;
+
+}
+.firma {
+   font-size: 18px;
+   color: #0b0c0c;
+   font-weight: 400;
+}
